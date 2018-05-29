@@ -1,1 +1,1 @@
-ls ~/home/vagrant/ | wc -l
+find ~ type f | wc -l
